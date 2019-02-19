@@ -1,0 +1,2 @@
+# Arquivo-Compartilhado
+Compartilhado
